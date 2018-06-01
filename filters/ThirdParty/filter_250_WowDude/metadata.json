@@ -1,0 +1,14 @@
+{
+  "filterId": 250,
+  "name": "WowDude PornList",
+  "description": "The list blocks ads/popups/fake thumbs/spam bookmark buttons and more from porn websites.",
+  "timeAdded": 1527860728365,
+  "homepage": "https://github.com/WowDude/PornList",
+  "expires": "2 days",
+  "displayNumber": 250,
+  "groupId": 3,
+  "subscriptionUrl": "https://raw.githubusercontent.com/WowDude/PornList/master/PornList.txt",
+  "tags": [
+    "purpose:ads"
+  ]
+}

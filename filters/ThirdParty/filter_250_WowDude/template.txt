@@ -1,0 +1,2 @@
+!
+@include "https://raw.githubusercontent.com/WowDude/PornList/master/PornList.txt" /exclude="../../exclusions.txt"
