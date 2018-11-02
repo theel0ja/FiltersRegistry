@@ -1,0 +1,7 @@
+! Checksum: kK0TgNc7iHBSODeCVG31KA
+! Title: (Obsolete) Official Polish filters for AdBlock, uBlock Origin & AdGuard - supplement for AdGuard
+! Description: Oficjalne polskie filtry do AdBlocka, uBlocka Origin i AdGuarda - uzupełnienie do AdGuarda - ta lista jest zawarta w oficjalnej polskiej liście i nie musisz jej aktywować, jeśli korzystasz z oficjalnych polskich filtrów do AdBlocka, uBlocka Origin i AdGuarda
+! Version: 2.0.0.26
+! TimeUpdated: 2018-06-26T08:05:33+00:00
+! Expires: 2 days (update frequency)
+! included to the main Official Polish filters for AdBlock, uBlock Origin & AdGuard
